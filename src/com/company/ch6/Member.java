@@ -10,7 +10,7 @@ public class Member {
     }
 
     static void staticMethod2(){
-        instanceMethod();
+        //instanceMethod();
         //Non-static method 'instanceMethod()' cannot be referenced from a static context
         /*
         같은 클래스에 속한 멤버(변수+메서드)간에는 별도의 인스턴스를 생성하지 않고도 서로 참조 혹은 호출이 가능.
