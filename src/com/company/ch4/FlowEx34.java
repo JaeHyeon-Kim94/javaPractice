@@ -38,7 +38,7 @@ public class FlowEx34 {
                 switch (menu){
                     case 1:
                         System.out.println("result="+num*num);
-                        break;
+                        break; //여기서의 break는 switch를 탈출하는 break임. for문이 계속 도는 이유.
                     case 2:
                         System.out.println("result="+Math.sqrt(num));
                         break;

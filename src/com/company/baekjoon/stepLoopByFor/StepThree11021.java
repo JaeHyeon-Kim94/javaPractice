@@ -1,4 +1,4 @@
-package com.company.baekjoon.stepLoop;
+package com.company.baekjoon.stepLoopByFor;
 
 import java.io.*;
 import java.util.StringTokenizer;
