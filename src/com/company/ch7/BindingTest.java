@@ -1,5 +1,6 @@
 package com.company.ch7;
 
+/*
 public class BindingTest {
     public static void main(String[] args) {
         Parent p = new Child();
@@ -34,4 +35,4 @@ class Parent{
             System.out.println("Child Method");
         }
 
-}
+}*/
